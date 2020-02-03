@@ -70,3 +70,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+To get started make sure you have composer installed on your computer. To run the application simply go to the root folder and type in:
+``
+composer update
+php artisan serve
+``
